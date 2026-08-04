@@ -1,3 +1,4 @@
+#Q:26  Remove duplicates from sorted array
 class Solution(object):
     def removeDuplicates(self, nums):
         if len(nums) == 0:
